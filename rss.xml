@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>AI Collection — Blog</title>
+  <link>https://yourdomain.com/</link>
+  <description>Updates from AI Collection</description>
+  <item>
+    <title>Top 10 AI Tools to Boost Your Productivity in 2025</title>
+    <link>https://yourdomain.com/blog/top-10-ai-tools-2025</link>
+    <pubDate>Thu, 18 Sep 2025 00:00:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>A Practical Guide to Monetizing Your AI Projects</title>
+    <link>https://yourdomain.com/blog/monetize-ai-tools</link>
+    <pubDate>Fri, 12 Sep 2025 00:00:00 +0530</pubDate>
+  </item>
+</channel>
+</rss>
